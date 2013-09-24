@@ -1,4 +1,4 @@
-coursera-ml-stanford
-====================
+Machine Learning 
+================
 
-Machine Learning Assignments
+There are 8 assignments in Octave.
